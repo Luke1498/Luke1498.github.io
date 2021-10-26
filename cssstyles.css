@@ -1,0 +1,91 @@
+@charset "utf-8";
+
+a:link {
+  color: indianred;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: darkred;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+nav {
+    text-align: center;
+    margin: 20px 0 0;
+    padding: 10px 100px;
+    font-family: changa-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: xx-large;
+}
+
+nav ul{
+  list-style: none;
+  margin: 0 4px;
+  padding: 0
+}
+
+nav li {
+   display: inline-block;
+   padding: 10px 80px;
+}
+
+
+
+
+
+body {
+    text-align: center;
+    background-color: #2B2525;
+    color: #CD5C5C;
+
+}
+h2 {
+    font-family: changa-one;
+    font-style: normal;
+    font-weight: 400;
+}
+#contactinfo {
+    width: 400px;
+    float: left;
+    color: #CD5C5C;
+
+
+}
+
+body h1 {
+    font-family: changa-one;
+    font-style: normal;
+    font-weight: 400;
+    padding-top: 0px;
+}
+
+#container {
+    color: #F3EFEF;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+body p {
+    font-family: changa-one;
+    font-style: normal;
+    font-weight: 400;
+}
+#footer {
+    text-align: center;
+}
